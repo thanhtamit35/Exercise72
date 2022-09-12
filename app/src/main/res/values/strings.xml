@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="coef_c">c =</string>
+    <string name="coef_a">a =</string>
+    <string name="coef_b">b =</string>
+    <string name="solve">solve</string>
+    <string name="delete">delete</string>
+</resources>
